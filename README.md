@@ -1,4 +1,4 @@
-#🔧 Predictive Maintenance Using AI
+#Predictive Maintenance Using AI
 This repository presents an end-to-end machine learning pipeline to predict failure events in milling machines using synthetic sensor and operational data. The goal is to leverage AI techniques to improve predictive maintenance strategies and minimize unexpected equipment downtimes.
 
 📊 Dataset Overview
